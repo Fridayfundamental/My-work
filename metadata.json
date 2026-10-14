@@ -1,0 +1,6 @@
+{
+  "name": "GIZ Community Pulse",
+  "description": "Field data intelligence platform for GIZ Zambia with an AI voice assistant called GIZA",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
